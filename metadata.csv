@@ -5,7 +5,7 @@ Creator_ORCID,https://orcid.org/0009-0001-5858-4112
 Institution,Independent
 Contact_Email,tkarlbergkjaer@gmail.com
 License,CC BY 4.0
-DOI,
+DOI, 10.5281/zenodo.17303633
 Coordinate_System,ETRS89 / UTM zone 32N (EPSG:25832)
 Spatial_Accuracy,±2 m
 Measurement_Methods,Manually georeferenced and vectorized in QGIS from original excavation drawings.
