@@ -1,0 +1,21 @@
+Variable,Description
+Title,"Osteological and Spatial Data from the Burial Ground of St. Peter’s Church in Tønsberg, Norway"
+Creator,Thomas Kjær
+Creator_ORCID,https://orcid.org/0009-0001-5858-4112
+Institution,Independent
+Contact_Email,tkarlbergkjaer@gmail.com
+License,CC BY 4.0
+DOI,
+Coordinate_System,ETRS89 / UTM zone 32N (EPSG:25832)
+Spatial_Accuracy,±2 m
+Measurement_Methods,Manually georeferenced and vectorized in QGIS from original excavation drawings.
+Sex_Determination,"Based on Holck (1989) and Sælebakke (1986). Morphological assessment of sex following criteria defined by the Anatomical Institute, University of Oslo."
+Age_Estimation,Based on Holck (1989) and Sælebakke (1986). Age categories follow Sjøvold (1978).
+Stature_Estimation,Based on Holck (1989) and Sælebakke (1986). Stature estimated from long bone measurements using Manouvrier’s (1893) method.
+Church_distance_m,Calculated distance in meters from each burial to the nearest point of the church wall (in QGIS).
+Age_category,"After Sjøvold (1978) and Holck (1989): Infant = 0–1, Infans I = 1–7, Infans II = 5–14, Juvenis = 10–24, Adultus = 18–44, Maturus = 35–64, Senilis = 50–70. Adult* = Individuals identified as adults without group assignment."
+Data_Version,1.0
+Date_of_Publication,2025-10-09
+HS,Human skeleton (HS) is defined as a minimum of two skeletal elements uncovered in situ and assessed during excavation as belonging to the same individual.
+HS_nr,Sequential numbering system used during fieldwork to identify human skeletal remains.
+Data_Collection,"All data were originally collected during excavations by Flodin, Germer and Lind (1982) and Blohmè and Runeby (1985). This dataset provides a compiled and digitized version of their work."
