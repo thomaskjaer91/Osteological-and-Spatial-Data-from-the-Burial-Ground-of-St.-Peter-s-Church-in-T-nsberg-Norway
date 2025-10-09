@@ -46,7 +46,7 @@ Sex and age estimations are morphological assessments following **Holck (1989)**
 Distance to church was calculated in QGIS using the “Distance to Nearest Hub” algorithm.  
 
 ## How to cite
-Kjær, Thomas (2025). *Osteological and Spatial Data from the Burial Ground of St. Peter’s Church in Tønsberg, Norway.* Zenodo. DOI:[insert DOI]
+Kjær, Thomas (2025). *Osteological and Spatial Data from the Burial Ground of St. Peter’s Church in Tønsberg, Norway.* Zenodo. DOI: 10.5281/zenodo.17303633
 
 ## License
 This dataset is published under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
